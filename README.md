@@ -1,10 +1,10 @@
 Open vSwitch
 ============
 
-What is ovs-OnetSw about?
+What is ovs-OnetSW about?
 -------------------------
 
-ovs-OnetSW is a tester software switch specific for [ONetSwitch]().
+OVS-OnetSW is a tester software switch specific for [ONetSwitch]().
 
 Build Status:
 -------------
